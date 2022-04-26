@@ -1,3 +1,3 @@
 # Codes for some machine learing algorithms
 
-K-Means Clustering algorithm
+1.K-Means Clustering algorithm
